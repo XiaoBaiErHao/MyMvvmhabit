@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+    <color name="colorPrimary">#4fadf6</color>
+    <color name="colorPrimaryHalf">#9003A9F4</color>
+    <color name="colorAccentHalf">#9000E5FF</color>
+
+    <array name="in_colors_light">
+        <item>#4B03A9F4</item>
+        <item>#3303A9F4</item>
+        <item>#1903A9F4</item>
+    </array>
+
+    <color name="belate">#FCA460</color>
+    <color name="legwork">#6a96f1</color>
+    <color name="lackcard">#6a96f1</color>
+</resources>
